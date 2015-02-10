@@ -1,2 +1,7 @@
 # hello-world
-tutorial setup
+===============
+
+Hello!
+
+My name is Tate im a freshman at Boston University taking EK128++
+
